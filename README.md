@@ -12,7 +12,7 @@ ITA:
 
 INSTALLATION:
 - drag and drop into the resources folder
-- add "start ol-automaticshop" into server.cfg
+- add **start ol-automaticshop** into server.cfg
 
 INSTALLAZIONE:
 - trascina la cartella dentro la cartella risorse
