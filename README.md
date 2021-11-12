@@ -16,4 +16,4 @@ INSTALLATION:
 
 INSTALLAZIONE:
 - trascina la cartella dentro la cartella risorse
-- aggiungi "start ol-automaticshop" detro server.cfg
+- aggiungi **start ol-automaticshop** detro server.cfg
